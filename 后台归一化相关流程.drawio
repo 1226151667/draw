@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-04-26T02:16:19.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" version="13.0.1" etag="JywHWoUu__ex5o82dj5o" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VtZc5swEP41fkyHy9h5DG6ONmmbxmnTV8XIoEZIVMh1yK+vMBKHFR84h02HmcwELcvK2v122f087tmj6PGcgTj8Qn2Ie5bhP/bsjz3LMi3LFv8ySZpLXKefCwKGfKlUCsboCUqhIaUz5MOkpsgpxRzFdeGEEgInvCYDjNF5XW1KcX3XGARQE4wnAOvSO+TzMJcOrUEpv4AoCNXOpnuc34mAUpYnSULg03lFZJ/27BGjlOdX0eMI4sx5yi93n9I7fPXgnn/+nvwBP7zL268/j3JjZ00eKY7AIOE7m356mJ5d/HR+/4qvz77PjfOT+89HR31p+y/AM+mw0SzhNIJMHpqnypPJHEUYELHyppTwsbxjivUkRNi/AimdZZ8v4WDyoFZeSBl6EvoAS2Vxm3EJFMutaYyzJ4XYEFIGE6FzrQ5tFqIrkHCpM6EYgzhB98UniQALEPEoF2dQhuiM+NCXqyKKiwVn9KHARfb8lq5WboOMw8cK0KTrz6HwIGepUFF3XYmiVCWWXM9LUBY6YQWQg6HMBZkHQWG62O1G5A0ggfBBsZ1V32245WYiHLXNAOaQEcChl/kwqeJLXFTOWYoWqGuCQGslAj/5OgZDEGeXIkAcAVye3PY4jWVUMZwqgDB5tuz6XoEiizPAKCDiOtf1skAiUTROpHhhzJsijEcUUyYkhC6Qn8RggkhwlW/hGKXoRm7lCBEV9qZ4AbMQ+T4kCxhywEGO1OyxmCLCF37ue+JPRGNkfOj3+uKYI7E2y7X4y9QZH1EiEAvQAppQpMEcZqng+YzGtwL4sDh2E8hXk9nR8b++bmxOgLQOraYQrOK9hr3GQLM1oF1fvhhg99VK8wxetsLZEqheC1ObYJOdcWXZW5+sy2Ev3t/yw9RekTU4VOJvu+8ZfkcL/1cQwbepMEZXYda/VF+pqCg87q+o9DVUdSWlWdCdFUFvQUlxteB/Y37XOb9u5+wYO3bOpuHs1Dq77emdB88DsGucD7dxdrfG/8E0zsOucX7xW26wIuwteMsda+F/6wG9a593ap8bl5a9t89qswq2zi7NrrY0i/vxirgffm1xdfr5o+iYuqrS5qqiGOv9VRWdUu5KSqOgu6umtBaUFJ3m1YIP/QCqxl34LaQBJQCfllIPEv8k+/JRKJzePEFGb+kXQFI1g5f3IkD8b3mJWJ9uwqKc3IdLk/yw8fCc0BmbwHVJK8/MVXXY1JdmHlmb29VkNp4dtqWQQQw4+gtroFkzgV9nUC6nb9usT9/2sVE3kZ9dPmVVvu5cMuQsGbKWDeW+0Qy91mzu6nzzOERxBOV2HT/0RvxQgaB34oesweESRK5OTysQdhzRwXJE7ipK/HA5IlenwjuOqGnT1V8R9hY0Xe9MRHej3C6jXPO6sn+CSOeeO4KocWFpL/ns6uRzRxC1varsnSAa6LRzV1KaBb29nPNA55y14P//BJH07kaCSGX3wRBEy7yOObTqJrYliGx7yZDC9AaCSIQWpBU1mWqNpnexLH83kKuXv76wT/8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-26T04:22:09.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="W8If5GYYz9SDNy_mv6t-" version="13.0.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="868" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="S8axffXoteTTYzTltYjk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S8axffXoteTTYzTltYjk-0" target="S8axffXoteTTYzTltYjk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-0" value="点击归一化检查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S8axffXoteTTYzTltYjk-3" target="S8axffXoteTTYzTltYjk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-3" value="判断其状态是否&lt;br style=&quot;font-size: 14px;&quot;&gt;符合归一化检查" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="140" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;把归一化检查状态改为&lt;br style=&quot;font-size: 14px;&quot;&gt;待检查waitingForCheck&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=14;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="160" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S8axffXoteTTYzTltYjk-11" target="S8axffXoteTTYzTltYjk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-11" value="归一化检查&lt;br&gt;常驻脚本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S8axffXoteTTYzTltYjk-15" target="S8axffXoteTTYzTltYjk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-15" value="获取待归一化检查的批次" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S8axffXoteTTYzTltYjk-17" target="S8axffXoteTTYzTltYjk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-17" value="进行归一化检查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-22" value="修改归一化状态：&lt;br&gt;checkError | checked&lt;br&gt;并把结果写入log表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-30" value="&lt;font color=&quot;#009900&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="160" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-34" value="" style="endArrow=none;dashed=1;html=1;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S8axffXoteTTYzTltYjk-10" target="S8axffXoteTTYzTltYjk-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="200" as="sourcePoint" />
+            <mxPoint x="710" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S8axffXoteTTYzTltYjk-35" value="" style="endArrow=none;dashed=1;html=1;fontSize=14;strokeColor=#FF6666;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="sourcePoint" />
+            <mxPoint x="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
