@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2020-04-26T04:25:38.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" version="13.0.1" etag="_W7mQEJtfZeBD011lp_D" type="github"><diagram id="UefYw5wi3gHuwn-6Gkr4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-26T04:51:01.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="_aXOr6fsBp3ljjWAlIiy" version="13.0.1" type="github">
+  <diagram id="UefYw5wi3gHuwn-6Gkr4" name="Page-1">
+    <mxGraphModel dx="1422" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-1" value="点击归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="239" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-4" target="GmqZFzUw1TpOb7ei1JLl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-4" value="判断其状态&lt;br style=&quot;font-size: 14px;&quot;&gt;是否符合归一化" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#76608a;strokeColor=#333333;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="190" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-19" value="把归一化状态&lt;br style=&quot;font-size: 14px;&quot;&gt;改为待归一化&lt;br style=&quot;font-size: 14px;&quot;&gt;waitingForNormalize" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=14;fillColor=#6d8764;strokeColor=#333333;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="209" y="340" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-20" target="GmqZFzUw1TpOb7ei1JLl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-20" value="归一化常驻脚本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-21" target="GmqZFzUw1TpOb7ei1JLl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-21" value="获取待归一化的批次" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-23" value="进行归一化检查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#647687;strokeColor=#333333;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-27" target="GmqZFzUw1TpOb7ei1JLl-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-27" value="检查成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#76608a;strokeColor=#333333;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="475" y="330" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#333333;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-30" target="GmqZFzUw1TpOb7ei1JLl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-30" value="进行归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#647687;strokeColor=#333333;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontSize=14;entryX=0.995;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-31" target="GmqZFzUw1TpOb7ei1JLl-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="220" />
+              <mxPoint x="860" y="501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-31" value="修改答案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#6d8764;strokeColor=#333333;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-34" value="" style="endArrow=none;dashed=1;html=1;fontSize=14;strokeColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-35" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#333333;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.833;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GmqZFzUw1TpOb7ei1JLl-19" target="GmqZFzUw1TpOb7ei1JLl-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-42" value="&lt;font color=&quot;#4d9900&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="605" y="340" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-43" value="&lt;font color=&quot;#4d9900&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GmqZFzUw1TpOb7ei1JLl-45" value="&lt;span&gt;修改归一化状态：&lt;/span&gt;&lt;br&gt;&lt;span&gt;normalizeError |normalized&lt;br&gt;并把结果写入log表&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#6D1F00;fontSize=14;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="650" y="470" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
