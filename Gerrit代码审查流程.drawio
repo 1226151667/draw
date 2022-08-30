@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T07:06:06.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="42635MsqLrSvKzdfaPzH" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T07:06:31.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="63dKWsImzrBuUR9wgDHg" version="20.2.7" type="github">
   <diagram id="vVnxGS3DNkMV-MBWDI6a" name="第 1 页">
     <mxGraphModel dx="1209" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,15 @@
         <mxCell id="cyKEODwtCJB8owj_rxAV-19" value="审核记录列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="200" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="cyKEODwtCJB8owj_rxAV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="cyKEODwtCJB8owj_rxAV-21" target="cyKEODwtCJB8owj_rxAV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyKEODwtCJB8owj_rxAV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="cyKEODwtCJB8owj_rxAV-21" target="cyKEODwtCJB8owj_rxAV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyKEODwtCJB8owj_rxAV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="cyKEODwtCJB8owj_rxAV-21" target="cyKEODwtCJB8owj_rxAV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cyKEODwtCJB8owj_rxAV-21" value="审核记录详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="375" width="160" height="50" as="geometry" />
         </mxCell>
@@ -77,10 +86,10 @@
           <mxGeometry x="920" y="280" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cyKEODwtCJB8owj_rxAV-23" value="审核记录所有文件名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="920" y="360" width="160" height="50" as="geometry" />
+          <mxGeometry x="920" y="375" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cyKEODwtCJB8owj_rxAV-24" value="审核记录所有评论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="920" y="440" width="160" height="50" as="geometry" />
+          <mxGeometry x="920" y="470" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
