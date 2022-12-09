@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T02:09:06.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="c6kjOQgHbZQ24dAaYxxx" type="github"><diagram id="WPRLg4z35Tif1yuGZB9s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T07:14:09.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="iJRejOFEguQJXk9RaYSA" type="github">
+  <diagram id="T_RMGlpMkpL0ck9ReJio" name="第 1 页">
+    <mxGraphModel dx="1550" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;流水线&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-67" value="安装依赖&amp;amp;测试" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-66">
+          <mxGeometry x="10" y="33" width="170" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-68" value="镜像打包" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-66">
+          <mxGeometry x="168" y="33" width="172" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-69" value="推送镜像" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-66">
+          <mxGeometry x="328" y="33" width="172" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-72" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;columnLines=0;rowLines=0;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="525" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-72">
+          <mxGeometry width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-74" value="名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-73">
+          <mxGeometry width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-75" value="代码源" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-73">
+          <mxGeometry x="77" width="76" height="40" as="geometry">
+            <mxRectangle width="76" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-76" value="镜像仓库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-73">
+          <mxGeometry x="153" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-77" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-72">
+          <mxGeometry y="40" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-78" value="环境" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-77">
+          <mxGeometry width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-79" value="代码库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-77">
+          <mxGeometry x="77" width="76" height="40" as="geometry">
+            <mxRectangle width="76" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-80" value="镜像名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-77">
+          <mxGeometry x="153" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-72">
+          <mxGeometry y="80" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-82" value="标签" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-81">
+          <mxGeometry width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-83" value="Dockerfile目录" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-81">
+          <mxGeometry x="77" width="76" height="40" as="geometry">
+            <mxRectangle width="76" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-84" value="镜像版本" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-81">
+          <mxGeometry x="153" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;流水线&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-87" value="安装依赖&amp;amp;测试" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-86">
+          <mxGeometry x="10" y="33" width="170" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-88" value="本地打包" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-86">
+          <mxGeometry x="168" y="33" width="172" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="vzXVdcDzAenCNqWlWEZO-89" value="推送COS" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-86">
+          <mxGeometry x="328" y="33" width="172" height="97" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
