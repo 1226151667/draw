@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T08:07:55.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="9w7WEqNaiSmdD8bkPxda" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T08:08:55.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="64pPGXdoMQTcTRx_q3-7" type="github">
   <diagram id="T_RMGlpMkpL0ck9ReJio" name="第 1 页">
     <mxGraphModel dx="2377" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vzXVdcDzAenCNqWlWEZO-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;流水线（镜像）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="510" height="140" as="geometry" />
+          <mxGeometry x="-160" y="-892" width="510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-67" value="安装依赖&amp;amp;测试" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-66">
           <mxGeometry x="10" y="33" width="170" height="97" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="328" y="33" width="172" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-72" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;columnLines=0;rowLines=0;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-50" width="230" height="120" as="geometry" />
+          <mxGeometry x="-550" y="-1052" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-72">
           <mxGeometry width="230" height="40" as="geometry" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;流水线（云存储）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="510" height="140" as="geometry" />
+          <mxGeometry x="-160" y="-712" width="510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-87" value="安装依赖&amp;amp;测试" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-86">
           <mxGeometry x="10" y="33" width="170" height="97" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="328" y="33" width="172" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-91" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;columnLines=0;rowLines=0;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="130" width="230" height="120" as="geometry" />
+          <mxGeometry x="-550" y="-872" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-91">
           <mxGeometry width="230" height="40" as="geometry" />
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-104" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;columnLines=0;rowLines=0;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="310" width="230" height="120" as="geometry" />
+          <mxGeometry x="-550" y="-692" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-105" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;fontSize=14;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-104">
           <mxGeometry width="230" height="40" as="geometry" />
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-117" value="Repo Interface" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="740" width="160" height="146" as="geometry" />
+          <mxGeometry x="-540" y="-262" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-118" value="Token Validate" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-117">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -215,19 +215,19 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-128" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="500" width="420" height="100" as="geometry" />
+          <mxGeometry x="-550" y="-502" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-129" value="Params" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="520" width="110" height="50" as="geometry" />
+          <mxGeometry x="-500" y="-482" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-130" value="Workspace" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="70" y="520" width="110" height="50" as="geometry" />
+          <mxGeometry x="-280" y="-482" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-131" value="Yaml + Env + StageCommand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-200" y="570" width="220" height="30" as="geometry" />
+          <mxGeometry x="-550" y="-432" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-132" value="Type" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="270" y="490" width="160" height="146" as="geometry" />
+          <mxGeometry x="-80" y="-512" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-133" value="Docker build &amp; Push" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-132">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-137" value="Yaml" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="490" y="490" width="160" height="146" as="geometry" />
+          <mxGeometry x="140" y="-512" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="vzXVdcDzAenCNqWlWEZO-138" value="Task：name、description" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="vzXVdcDzAenCNqWlWEZO-137">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
