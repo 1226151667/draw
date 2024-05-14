@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T07:41:53.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vmGAldon0AmqRT9IfNhz" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T07:44:02.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1vZmsfGYPiB4nJlzHtxl" version="24.2.0" type="github">
   <diagram name="第 1 页" id="z-6vBY-6ax6PxCqkO_pk">
     <mxGraphModel dx="2901" dy="2267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
             <mxPoint x="5" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-55" value="机构修改" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=14;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-55" value="机构修改" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=14;fontStyle=1;labelBackgroundColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="391" y="-586" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-afLfj1glj--AbhvNky-57" target="V-afLfj1glj--AbhvNky-50">
@@ -99,10 +99,10 @@
         <mxCell id="V-afLfj1glj--AbhvNky-83" value="根据搜索条件获取机构列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-265" y="-446" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-88" value="机构列表" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-88" value="机构列表" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fontSize=14;fontStyle=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-255" y="-110" width="130" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-94" value="数据来源选择" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-94" value="数据来源选择" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-99" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="V-afLfj1glj--AbhvNky-101" parent="1">
@@ -115,19 +115,19 @@
             <mxPoint x="-580" y="-780" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-101" value="本机构登记" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-101" value="本机构登记" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fontSize=14;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-690" y="-700" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-102" value="接诊人员初筛机构" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-102" value="接诊人员初筛机构" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fontSize=14;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-570" y="-700" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-104" value="数据来源选择" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-104" value="数据来源选择" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-112" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="V-afLfj1glj--AbhvNky-110" target="V-afLfj1glj--AbhvNky-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-110" value="省市区" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-110" value="省市区" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-702" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="V-afLfj1glj--AbhvNky-110" parent="1" source="V-afLfj1glj--AbhvNky-104">
@@ -135,13 +135,13 @@
             <mxPoint x="-190" y="-770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-42" value="地区配置" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-42" value="地区配置" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-50" y="-712" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-113" value="鉴权" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-702" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-27" value="免/收费配置" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-27" value="免/收费配置" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-586" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V-afLfj1glj--AbhvNky-114" target="V-afLfj1glj--AbhvNky-51">
@@ -150,7 +150,7 @@
         <mxCell id="V-afLfj1glj--AbhvNky-114" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-752" width="460" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="V-afLfj1glj--AbhvNky-116" value="指定机构" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V-afLfj1glj--AbhvNky-116" value="指定机构" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;fontSize=14;fontStyle=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-620" y="-110" width="125" height="78" as="geometry" />
         </mxCell>
         <mxCell id="V-afLfj1glj--AbhvNky-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V-afLfj1glj--AbhvNky-102" target="V-afLfj1glj--AbhvNky-116">
